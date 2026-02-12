@@ -1,3 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Data
+data/raw/
 venv/
 __pycache__/
 .ipynb_checkpoints/
